@@ -104,19 +104,16 @@ img.gallery-image {
 
 .gallery-item-info:hover {
     opacity: 0.5;
-    background-color: lightslategrey;
+    background-color: black;
     cursor: pointer;
 }
 
 .gallery-item-info ul {
     font-size: 20px;
-    color: black;
+    color: white;
     list-style-type: none;
 }
 
-.gallery-item-info, img.gallery-image {
-    border-radius: 5px;
-}
 
 .gallery-item-info ul li {
     display: flex;
